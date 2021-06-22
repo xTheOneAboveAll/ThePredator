@@ -1,7 +1,6 @@
 <html><head><link rel='stylesheet' href='resource://content-accessible/plaintext.css'>
 
     </head><body>
-        <center style='font-size: 60px;;'>THE PREDATOR</center><br><br>
 <div class="container">
 <pre>
       _.---.._             _.---...__
