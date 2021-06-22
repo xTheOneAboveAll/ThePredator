@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<html><head><link rel='stylesheet' href='resource://content-accessible/plaintext.css'>
+    <style>
+        .container {
+   text-align: center;
+ }
 
-You can use the [editor on GitHub](https://github.com/xTheOneAboveAll/ThePredator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+.container pre {
+  display: inline-block;
+  text-align: left;
+ }
+    </style>
+    </head><body>
+        <center style='font-size: 60px;;'>THE PREDATOR</center><br><br>
+<div class="container">
+<pre>
+      _.---.._             _.---...__
+   .-'   <a style='color:red'>/\</a>   \          .'  <a style='color:red'>/\</a>     /   <code>THE PREDATOR</code>
+   `.   <a style='color:red'>(  )</a>   \        /   <a style='color:red'>(  )</a>   /       <code>ALL IN ONE TOOLBAR</code>
+     `.  <a style='color:red'>\/</a>   .'\      /`.   <a style='color:red'>\/</a>  .'     <code>FOR SPAMMERS AND</code>
+       ``---''   )    (   ``---''          <code>DEFACERS DAILY USE</code>
+               .';.--.;`.               <code>USE AT YOUR OWN RISK</code>
+             .' /_...._\ `.                <code>WE ARE NOT RESPONSIBLE</code>
+           .'   `..  ..'   `.           <code>FOR ANY BAD USAGES</code>
+          (        \/        )             <code>CREATOR <a style='color:green' href='https://t.me/xTheOneAboveAll'>@xTheOneAboveAll</a></code>
+           `.___..-'`-..___.'           <code>USE YOUR BRAIN AND</code>
+              \          /                 <code>BE THE BEST PREDATOR</code>
+               `-.____.-'             --------------------------------
+                                         Welcome To Predator World
+        [COPYRIGHT2021,PREDATOR]      --------------------------------
+</pre>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xTheOneAboveAll/ThePredator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>
+<center ><code><a href='https://t.me/th3pr3d80r'>[+] Channel > Telegram</a></code></center>
+</body></html>
