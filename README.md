@@ -1,14 +1,5 @@
 <html><head><link rel='stylesheet' href='resource://content-accessible/plaintext.css'>
-    <style>
-        .container {
-   text-align: center;
- }
 
-.container pre {
-  display: inline-block;
-  text-align: left;
- }
-    </style>
     </head><body>
         <center style='font-size: 60px;;'>THE PREDATOR</center><br><br>
 <div class="container">
