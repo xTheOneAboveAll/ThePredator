@@ -1,6 +1,6 @@
 <html><head><link rel='stylesheet' href='resource://content-accessible/plaintext.css'>
 
-    </head><body>
+
 <div class="container">
 <pre>
       _.---.._             _.---...__
