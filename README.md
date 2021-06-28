@@ -24,8 +24,8 @@
 The Predator[Auto Exploiter & More]
 
 This is a penetration testing tools. We are not responsible for any illegel activity.
-You can use one Lisense in 2 pc but you have to register for them when you going to buy
-it else you will not able to use one lisense in another pc.
+You can use one license on two devices but you have to register your two devices when
+you buy this product. Otherwise you will not be able to use two devices with one license
 
 What you will get[!]
 					[+] Seventeen Differents Dorker & Grabber with MultiThreads and ProxyAccess
