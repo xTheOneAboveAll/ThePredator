@@ -130,9 +130,9 @@ What you will get[!]
 						[3] Aws Checker
 						[4] Rdp Bruter
 					[+] There is 15+ Surpeise Tool
-					[+] You will get mountly update with more bug free and well devopoped tools
+					[+] You will receive monthly updates with more advanced tools
 					[0_0] You will get around 100+ tool.This is probably the most resourceful + advanced tool you have ever seen [0_0]
-					If you are Interested to buy this dm: 
+					Contact us if you are interested in buying it: 
 					xTheOneAboveAll(Jonathon)
 					Telegram: https://t.me/xTheOneAboveAll
 					Facebook: https://fb.me/xTheOneAboveAll
