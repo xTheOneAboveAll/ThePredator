@@ -133,9 +133,9 @@ What you will get[!]
 					[+] You will receive monthly updates with more advanced tools
 					[0_0] You will get around 100+ tool.This is probably the most resourceful + advanced tool you have ever seen [0_0]
 					Contact us if you are interested in buying it:
-					 <a href="https://t.me/xTheOneAboveAll">xTheOneAboveAll(Jonathon)</a> 
-					Telegram: <a href="https://t.me/xTheOneAboveAll">https://t.me/xTheOneAboveAl</a>
-					Facebook: <a href="https://fb.me/xTheOneAboveAll">https://fb.me/xTheOneAboveAll</a>
+					 <a href="https://t.me/xTheOneAboveAll" target="_blank">xTheOneAboveAll(Jonathon)</a> 
+					Telegram: <a href="https://t.me/xTheOneAboveAll" target="_blank">https://t.me/xTheOneAboveAl</a>
+					Facebook: <a href="https://fb.me/xTheOneAboveAll" target="_blank">https://fb.me/xTheOneAboveAll</a>
 					You Can also Buy From My Agent Brothers
 					[+]
 					[+]
