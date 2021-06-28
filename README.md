@@ -72,7 +72,6 @@ What you will get[!]
 						[4] Laravel Exploiter
 						[5] Sql Vuln Finder
 						[6] Wp Setup
-						[7] Login To Shell [Wp,JM,Ps,Oc,Mg]
 					[+] All Cms & Other Bruter 
 						[1] Wordpress
 						[2] Joomla
@@ -85,7 +84,7 @@ What you will get[!]
 					[+] Zone-H poster
 					[+] Shell Accessrios Tools
 						[1]  Shell Checker
-						[2]  Login to Shell
+						[2]  Login To Shell [Wp,JM,Ps,Oc,Mg]
 						[3]  WSO Shell Upload via Uploader/Shell
 						[4]  Leafpad Mailer Uploader
 						[5]  Get Mail List From Shell
