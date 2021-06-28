@@ -2,7 +2,13 @@
 <img src="https://user-images.githubusercontent.com/86317606/123600554-a73b6880-d7ab-11eb-8d69-e36bb453f594.png" alt="predator image">
 
 The Predator[Auto Exploiter & More]
-Official Channel <a href="https://fb.me/th3pred80r" target="_blank">The Predator</a>
+
+Official Facebook Page <a href="https://fb.me/th3pred80r" target="_blank">The Predator</a>
+Official Telegram Channel <a href="https://t.me/th3pred80r" target="_blank">The Predator</a>
+Official Youtube Channel <a href="https://www.youtube.com/channel/UChPOCVmnA4ZUg8o0EJCwF-A" target="_blank">xTheOneAboveAll</a>
+
+
+
 
 This is a penetration testing tools. We are not responsible for any illegel activity.
 You can use one license on two devices but you have to register your two devices when
