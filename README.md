@@ -23,7 +23,7 @@
 
 The Predator[Auto Exploiter & More]
 
-This a pentest tools.If anyone use this for bad purpose,we are not responsible for that.
+This a penetration testing tools.If anyone use this for bad purpose,we are not responsible for that.
 You can use one Lisense in 2 pc but you have to register for them when you going to buy
 it else you will not able to use one lisense in another pc.
 
