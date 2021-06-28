@@ -3,9 +3,9 @@
 
 The Predator[Auto Exploiter & More]
 
-Official Facebook Page <a href="https://fb.me/th3pred80r" target="_blank">The Predator</a>
-Official Telegram Channel <a href="https://t.me/th3pred80r" target="_blank">The Predator</a>
-Official Youtube Channel <a href="https://www.youtube.com/channel/UChPOCVmnA4ZUg8o0EJCwF-A" target="_blank">xTheOneAboveAll</a>
+Official Facebook Page    : <a href="https://fb.me/th3pred80r" target="_blank">The Predator</a>
+Official Telegram Channel : <a href="https://t.me/th3pred80r" target="_blank">The Predator</a>
+Official Youtube Channel  : <a href="https://www.youtube.com/channel/UChPOCVmnA4ZUg8o0EJCwF-A" target="_blank">xTheOneAboveAll</a>
 
 
 
