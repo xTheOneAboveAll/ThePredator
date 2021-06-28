@@ -131,7 +131,7 @@ What you will get[!]
 						[4] Rdp Bruter
 					[+] There is 15+ Surpeise Tool
 					[+] You will get mountly update with more bug free and well devopoped tools
-					[0_0] You will get around 100 tool.Prebably this is the most resourceful + advanced tool you have ever seen[0_0]
+					[0_0] You will get around 100+ tool.This is probably the most resourceful + advanced tool you have ever seen [0_0]
 					If you are Interested to buy this dm: 
 					xTheOneAboveAll(Jonathon)
 					Telegram: https://t.me/xTheOneAboveAll
@@ -144,7 +144,7 @@ What you will get[!]
 					[+]
 					----------------------
 					10 Lucky People will Get Upto 50% Discount
-					It's time for hunt x_x
+					It's time to hunt x_x
 
 
 
