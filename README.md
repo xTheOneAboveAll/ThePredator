@@ -5,7 +5,7 @@ The Predator[Auto Exploiter & More]
 
 This is a penetration testing tools. We are not responsible for any illegel activity.
 You can use one license on two devices but you have to register your two devices when
-you buy this product. Otherwise you will not be able to use two devices with one license
+you buy this product. Otherwise you will not be able to use two devices with one license.
 
 What you will get[!]
 					[+] Seventeen Differents Dorker & Grabber with MultiThreads and ProxyAccess
@@ -123,7 +123,7 @@ What you will get[!]
 					[+]
 					[+]
 					----------------------
-					10 Lucky People will Get Upto 50% Discount
+					10 Lucky People will Get Upto 50% Discount!
 					It's time to hunt x_x
 
 
