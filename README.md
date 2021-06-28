@@ -1,25 +1,5 @@
 <pre>
-                 ````. `  ``.````
-              ```-odNMh:``:dMNh+. ``
-            ``.omMdssssyssyssssdMmo.``
-           ``yMNo+hMMMMMMMMMMMNh+oNMs``
-          ` mMN-dMMMMMMMMMMMMMMMMh:MMh `
-         `` mMh+MMMMMMMMMMMMMMMMMM:dMd ``
-        ``:h-hm/NMMMMMMMMMMMMmNMMm/mh-d-``
-        `.NM/  `:MMMMMMMMMs+shMMM-`  +MN``    [THE PREDATOR]
-       ` dM/.:   MMMMMMMMMNMysMMm   /`+Mh `       [V.A1]
-      ``/M+.mN-` hMMMMMMMMMMdNMMy .:Nd`oM:`
-      ` ms`mm. o-.yMMMMMMMMMMMMy`:+ -Nd`yh `
-      `-N`yN.-y.m: `+hNMMMMNh/``/m`h.-No`N.`
-     ``os`M/`md yNNhso-yhhy-oydMmo md oN y+`
-     ` s/:N oM--mhyyhMoMMMMoMyyyhN.:M/`M.+o `
-     ` s-/d dy `hMMMNssMMMMoyMMMMy` dh m-:+`
-      `:.:h N/`` :mMMydMMMMyhMMm: ``+d d-:.`
-      ` ``h d:` ```oMoMMMMMmoMo``  `/h d ` `
-        ` o o/`   ``.-mmmmmm-.``   `/+ o `
-         `` .+`     ```     ``    ``+` ``
-           ` - `                  ` - `
-            ```                    ```
+<img src="https://user-images.githubusercontent.com/86317606/123600554-a73b6880-d7ab-11eb-8d69-e36bb453f594.png" alt="predator image">
 
 The Predator[Auto Exploiter & More]
 
